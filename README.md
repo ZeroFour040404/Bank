@@ -1,0 +1,3 @@
+the Banking repo was first developed here before I created a more sophisticated version called sss...
+this of course only records the transactions per use and always starts at zero
+the pass and user is also stored only within the code itself
